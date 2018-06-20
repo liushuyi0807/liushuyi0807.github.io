@@ -1,0 +1,10 @@
+h1{
+    margin: 0;
+}
+h1{
+    width: 100px;
+    height: 850px;
+    background: blue;
+    float: left;
+    margin-right: 30px;
+}
