@@ -1,0 +1,31 @@
+.s1 img{
+    width: 100%;
+}
+.s2{
+    width: 100%;
+}
+.s2 div{
+    margin-left: 6.5%;
+    width: 87%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.s2 img{
+    width: 33%;
+}
+.s3{
+    text-align: center;
+}
+.s6{
+    text-align: center;
+}
+#footer{
+	margin-top: 50px; 
+	text-align: center;
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-decoration: none;
+	background: rgb(247, 229, 72);
+	color: #fff;
+}
